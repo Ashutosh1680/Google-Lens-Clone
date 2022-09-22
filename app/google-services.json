@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758309516156",
+    "project_id": "lens-clone-app-b400b",
+    "storage_bucket": "lens-clone-app-b400b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758309516156:android:0273f03e4218bbf54eeaf9",
+        "android_client_info": {
+          "package_name": "com.example.google_lens_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758309516156-0rddcntce5cd9nhn2sgadp32bsu71321.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0RBlr1Swu10S3LVtWlpKVX7ot1cA6FZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758309516156-0rddcntce5cd9nhn2sgadp32bsu71321.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
